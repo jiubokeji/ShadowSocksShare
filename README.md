@@ -36,7 +36,7 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 
-<center><a href="https://heroku.com/deploy?template=https://github.com/the0demiurge/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
+<center><a href="https://heroku.com/deploy?template=https://github.com/jiubokeji/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
 
 ## 简介：
 
